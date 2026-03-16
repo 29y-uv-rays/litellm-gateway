@@ -1,1 +1,1 @@
-web: litellm --config config.yaml --port $PORT
+web: litellm --config config.yaml --host 0.0.0.0 --port $PORT

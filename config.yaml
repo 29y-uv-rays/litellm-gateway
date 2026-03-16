@@ -1,7 +1,7 @@
 model_list:
   - model_name: copilot
     litellm_params:
-      model: github/copilot
+      model: github-copilot/gpt-4.1
 
 general_settings:
-  master_key: CHANGE_ME_SECRET_KEY
+  master_key: ghp_a8f3e2d1c4b5f6g7h8i9j0k1l2m3n4o5p6q
